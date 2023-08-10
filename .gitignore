@@ -1,0 +1,27 @@
+# Файлы и папки, созданные PHPStorm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Кэши и временные файлы PHPStorm
+.caches/
+.idea_modules/
+*.log
+*.swp
+*.DS_Store
+
+# Папка с настройками проекта PHPStorm
+.idea/
+
+# Папка с настройками из PHPStorm 2020.3 и новее
+.phpstorm.meta.php/
+
+# Папка с локальными историями PHPStorm
+.localhistory/
+
+# Папка с временными файлами для автодополнения PHPStorm
+.idea_caches/
+
+# Папка с настройками интерпретатора PHP
+.phpstorm.meta.php/
